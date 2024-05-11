@@ -13,6 +13,6 @@ class car extends Model
         'marca',
         'modelo',
         'ano',
-        'ano',
+        'cor',
     ];
 }
